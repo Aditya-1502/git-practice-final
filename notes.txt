@@ -1,4 +1,6 @@
 This is my first git practice.
 This is the second line added in the feature branch.
-This line is from conflict-A branch.
+
+This line is from conflict-B branch.
+
 
